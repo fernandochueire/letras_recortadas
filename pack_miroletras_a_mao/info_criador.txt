@@ -1,0 +1,23 @@
+============================================================
+        PACK DE LETRAS RECORTADAS — nando.mp4
+============================================================
+Nome do Pack:         Miroletras a mao
+Pasta para o GitHub:  pack_miroletras_a_mao
+Nome do Criador:      Miro Aguni
+E-mail:               miroaguni@gmail.com
+Instagram / TikTok:   @miroaguni
+Data de Geração:      08/11/2026, 14:04:08
+Total de Recortes:    106 arquivos PNG (500x500 px)
+============================================================
+
+Envie este arquivo .ZIP para: nandomp4letras@gmail.com
+
+------------------------------------------------------------
+BLOCO PRONTO PARA O GERADOR (CONFIG_ACERVO / catalogo.json):
+------------------------------------------------------------
+pack_miroletras_a_mao: {
+    nome: "Miroletras a mao (@miroaguni)",
+    urlBase: "https://raw.githubusercontent.com/fernandochueire/letras_recortadas/main/pack_miroletras_a_mao/",
+    fallbackUrlBase: "https://raw.githubusercontent.com/fernandochueire/letras_recortadas/main/",
+    mapaDeLetras: {"0":2,"1":2,"2":2,"3":2,"4":2,"5":2,"6":2,"7":2,"8":2,"9":2,"A":2,"B":2,"C":2,"D":2,"E":2,"F":2,"G":2,"H":2,"I":2,"J":2,"K":2,"L":2,"M":2,"N":2,"O":4,"P":2,"Q":2,"R":2,"S":2,"T":2,"U":2,"V":2,"W":2,"X":2,"Y":2,"Z":2,"Á":2,"À":2,"Ã":2,"Â":2,"É":2,"Ê":2,"Í":2,"Ó":2,"Õ":2,"Ô":2,"Ú":2,"Ç":2,"!":2,"?":2,".":2,",":2}
+}
